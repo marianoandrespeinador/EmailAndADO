@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataObjectBase.cs" />
+    <Compile Include="dbParameter.cs" />
+    <Compile Include="DepositDO.cs" />
+    <Compile Include="EmailerActiveDirectory.cs" />
+    <Compile Include="EMailerBase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
